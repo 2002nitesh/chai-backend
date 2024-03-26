@@ -22,9 +22,6 @@ connectDB()
 
 
 
-
-
-
 /*
 import { express } from "express";
 
